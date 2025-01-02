@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "FoodSales"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d45f3c5e-a72e-4010-9b5a-5d5abd0001e9"
+  }
+}
